@@ -3,6 +3,7 @@ import Social from '../components/Social';
 
 class Contact extends Component {
     render() {
+        document.title = 'Contact'
         return (
             <div className="condiv contact">
             <h1 className="subtopic">Contact Me</h1>

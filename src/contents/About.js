@@ -3,7 +3,9 @@ import React, { Component } from 'react';
 
 class About extends Component {
     render() {
+        document.title = 'About'
         return (
+            
             <div className="condiv">
             <h1 className="subtopic">I'm Trang Ngo</h1>
             <h2>Python | Javascript | React Developer</h2>

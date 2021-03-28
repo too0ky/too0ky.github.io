@@ -3,6 +3,7 @@ import Widecard from '../components/Widecard';
 
 class Resume extends Component {
     render() {
+        document.title = 'Resume'
         return (
             <div className="condiv">
             <h1 className="subtopic">My Resume</h1>

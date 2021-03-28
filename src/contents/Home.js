@@ -7,6 +7,7 @@ import Social from '../components/Social'
 
 class Home extends Component {
     render() {
+        document.title = 'Trang Ngo'
         return (
             <div className="hcondiv home">
             <img src={profilepic} alt="ProfilePic" className="profilepic"></img>

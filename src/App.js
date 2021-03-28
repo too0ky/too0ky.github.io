@@ -8,7 +8,6 @@ import Navbar from './components/Navbar';
 import Home from './contents/Home';
 import About from './contents/About';
 import Resume from './contents/Resume';
-import Skills from './contents/Skills';
 import Projects from './contents/Projects';
 import Contact from './contents/Contact';
 
@@ -27,9 +26,6 @@ function App() {
     </Route>
     <Route path="/resume">
     <Resume />
-    </Route>
-    <Route path="/skills">
-    <Skills />
     </Route>
     <Route path="/projects">
     <Projects />
