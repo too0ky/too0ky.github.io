@@ -1,17 +1,1 @@
-Portfolio/Resume Website using React JS.
-
-Clone or Download the project
-
-Open the project in vscode
-
-Open Terminal
-
-Type the below commands
-
-$ cd Portfolio_Website_React JS
-
-$ npm install
-
-$ npm start
-
-That's all !
+Hi! This is my first Create React App. I decided to 'upgrade' my portfolio. I'm still trying to learn more about React, but in the meantime, I hope you will enjoy it! 
