@@ -136,6 +136,24 @@ class Projects extends Component {
         <span class="code">&#47;&gt;</span>
         </p>
         </a>
+
+        <a href="https://public.tableau.com/profile/trang3487#!/vizhome/SuperstoreDashboard_16046592226300/SuperstoreDashboard" target="_blank" class="project project-tile" rel="noopener noreferrer">
+        <img class="project-image" src="https://i.ibb.co/hZfd09s/Superstore-Dashboard.jpg" alt="Project 14"/>
+        <p class="project-title">
+        <span class="code">&lt;</span>
+        Superstore Dashboard Tableau         
+        <span class="code">&#47;&gt;</span>
+        </p>
+        </a>
+
+        <a href="https://too0ky.github.io/user-registration/" target="_blank" class="project project-tile" rel="noopener noreferrer">
+        <img class="project-image" src="https://i.ibb.co/w0kGYkD/User-Registration.jpg" alt="Project 15"/>
+        <p class="project-title">
+        <span class="code">&lt;</span>
+        User Registration         
+        <span class="code">&#47;&gt;</span>
+        </p>
+        </a>
     </div>
 </div>
         )
