@@ -136,11 +136,6 @@ class Projects extends Component {
         <span class="code">&#47;&gt;</span>
         </p>
         </a>
-<<<<<<< HEAD
-
-=======
-            
->>>>>>> cf7cd7060e4fc925590be5d306a88f45f78b85e0
         <a href="https://public.tableau.com/profile/trang3487#!/vizhome/SuperstoreDashboard_16046592226300/SuperstoreDashboard" target="_blank" class="project project-tile" rel="noopener noreferrer">
         <img class="project-image" src="https://i.ibb.co/hZfd09s/Superstore-Dashboard.jpg" alt="Project 14"/>
         <p class="project-title">
@@ -149,8 +144,7 @@ class Projects extends Component {
         <span class="code">&#47;&gt;</span>
         </p>
         </a>
-<<<<<<< HEAD
-
+        
         <a href="https://too0ky.github.io/user-registration/" target="_blank" class="project project-tile" rel="noopener noreferrer">
         <img class="project-image" src="https://i.ibb.co/w0kGYkD/User-Registration.jpg" alt="Project 15"/>
         <p class="project-title">
@@ -159,8 +153,7 @@ class Projects extends Component {
         <span class="code">&#47;&gt;</span>
         </p>
         </a>
-=======
->>>>>>> cf7cd7060e4fc925590be5d306a88f45f78b85e0
+
     </div>
 </div>
         )
