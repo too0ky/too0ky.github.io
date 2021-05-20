@@ -8,9 +8,17 @@ class About extends Component {
             
             <div className="condiv">
             <h1 className="subtopic">I'm Trang Ngo</h1>
+            <h3 className='quote'>"Nothing is neither good nor bad but thinking makes it so"</h3>
             <h2>Python | Javascript | React Developer</h2>
             <br></br>
-            <p>After getting my Bachelors in History and Pyschology, I embarked on a journey to see the world. Having seen so many beautiful places, I realized that there is something truly uniqiue in the connections we develop with one another, and the best way to stay connected in this digital age is through the internet. This led me down the path of web developement and data analysis. In the last year and a half, I have been teaching myself the nuauces of Python and Javascript, learning about different libraries and tools along the way. With this, I hope to find a suitable job that will help me connect to the world around me. 
+            <p>Hi! I’m Trang! Let me introduce myself: I am a self-taught developer (can I say that yet?), looking to dip my toes into the wonderful world of IT. For as long as I can remember, I have always been curious about what I will do as an adult. Well, I am an adult now, and I can’t honestly say what that will be! But I do know I am interested in creating something wonderful.</p>
+            <br></br>
+            <p>This past year, I have been teaching myself Web Development and Data Analysis through Coursera, FreeCodeCamp, practicing on my personal projects and learning alongside many tutorials. 
+            Data Analysis because I believe it’s necessary to understand the information around you. To make informed decisions based on facts and data. Web Development because it’s wonderful and rewarding to create something beautiful from nothing. “Hello World” is the beginning of an exciting adventure.</p>
+            <br></br>
+            <p>I am a firm believer that if you set your mind on something, you will achieve it. Everything is difficult in the beginning, but if you are persistent, you will achieve your goals. </p>
+            <br></br>
+            <p>Thank you for taking the time to look at my portfolio, and I hope you enjoy the things you see! 
             </p>
             
             </div>
