@@ -65,11 +65,11 @@ class Projects extends Component {
         </p>
         </a>
     
-        <a href="https://codepen.io/too0ky/full/NWrKRZX" target="_blank" class="project project-tile" rel="noopener noreferrer">
-        <img class="project-image" src="https://i.ibb.co/Chf6w38/Spinning-Circle.jpg" alt="Project 6"/>
+        <a href="http://too0ky.pythonanywhere.com/" target="_blank" class="project project-tile" rel="noopener noreferrer">
+        <img class="project-image" src="<img src="https://i.ibb.co/KbGddKY/Bucketlist.jpg" alt="Bucketlist"/>
         <p class="project-title">
         <span class="code">&lt;</span>
-        Spinning Circles
+        Bucket List: A Django App
         <span class="code">&#47;&gt;</span>
         </p>
         </a>
