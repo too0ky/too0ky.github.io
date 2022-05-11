@@ -7,7 +7,7 @@ class Resume extends Component {
         return (
             <div className="condiv">
             <h1 className="subtopic">My Resume</h1>
-            <h2><u>SKILLS</u>: HTML | CSS | JAVASCRIPT | PYTHON | DJANGO| REACT | PANDAS | SQL | TABLEAU | POSGRES</h2>
+            <h2><u>SKILLS</u>: HTML | CSS | JAVASCRIPT | PYTHON | DJANGO| REACT | PANDAS | SQL | POSGRES | TABLEAU| POWER BI</h2>
             <Widecard title="Responsive Web Design" where="FreeCodeCamp, Remote" from="January 2020"  to="April 2020"  role="Completion of FreeCodeCamp 'Responsive Web Design' course"/>
             
             <Widecard title="Data Analysis with Python" where="FreeCodeCamp, Remote" from="October 2020" to="November 2020" role="Completion of FreeCodeCamp 'Data Analysis with Python' course"/>
