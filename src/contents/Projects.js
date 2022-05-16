@@ -11,14 +11,6 @@ class Projects extends Component {
     <h1 class="subtopic">My Projects</h1>   
     <div class="projects-grid"> 
           
-        <a href="https://codepen.io/too0ky/full/NyzLjJ" target="_blank" class="project project-tile" rel="noopener noreferrer">
-        <img class="project-image" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Napoleon_Hill_headshot.jpg" alt="Project 1"/>
-        <p class="project-title">
-        <span class="code">&lt;</span>
-        Tribute Page
-        <span class="code">&#47;&gt;</span>
-        </p>
-        </a>
           
         <a href="https://codepen.io/too0ky/full/BrJvjm" target="_blank" class="project project-tile" rel="noopener noreferrer"> 
         <img class="project-image" src="https://i.ibb.co/t3PpcN4/travel.jpg" alt="Project 2"/>
@@ -66,10 +58,10 @@ class Projects extends Component {
         </a>
     
         <a href="http://too0ky.pythonanywhere.com/" target="_blank" class="project project-tile" rel="noopener noreferrer">
-        <img class="project-image" src="<img src="https://i.ibb.co/KbGddKY/Bucketlist.jpg" alt="Bucketlist"/>
+        <img class="project-image" src="https://i.ibb.co/KbGddKY/Bucketlist.jpg" alt="Bucketlist"/>
         <p class="project-title">
         <span class="code">&lt;</span>
-        Bucket List: A Django App
+        Django Bucket List
         <span class="code">&#47;&gt;</span>
         </p>
         </a>
@@ -141,7 +133,7 @@ class Projects extends Component {
         <img class="project-image" src="https://i.ibb.co/hZfd09s/Superstore-Dashboard.jpg" alt="Project 14"/>
         <p class="project-title">
         <span class="code">&lt;</span>
-        Superstore Dashboard Tableau         
+        Superstore Tableau         
         <span class="code">&#47;&gt;</span>
         </p>
         </a>

@@ -21,7 +21,8 @@ body{
 nav
 {
   padding:20px;
-  background: rgb(166, 189, 189);
+  background: rgb(131, 188, 235);
+  border-style: double;
   
 }
 .condiv
@@ -63,9 +64,11 @@ a {
 
 
 .project {
-  background: rgb(173, 167, 167);
+  background: rgb(92, 114, 240);
+  padding: 3px;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   border-radius: 2px;
+  border-style: double;
 }
 
 .code {
@@ -102,12 +105,13 @@ a {
 {
   border-radius: 50%;
   width: 400px;
-  margin: 10px;
+  margin: 5px;
+  border-style: dotted;
 }
 .typingeffect
 {
-  padding-top: 20px;
   font-size: var(--typing-font);
+  margin-top: 30px;
   margin-bottom: 30px;
 }
 .contact
