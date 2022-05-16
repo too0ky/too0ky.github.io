@@ -2,7 +2,7 @@
   "name": "trang",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://too0ky.github.io/trang",
+  "homepage": "https://too0ky.github.io",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.26",
     "@fortawesome/free-solid-svg-icons": "^5.12.0",
